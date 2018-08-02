@@ -1,4 +1,4 @@
-package com.scy.myinterceptor.util;
+package com.scy.base.util;
 
 import java.util.Collection;
 import java.util.LinkedList;
